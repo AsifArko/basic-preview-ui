@@ -1,0 +1,7 @@
+.ui.modal > .header {
+    border-bottom: none;
+}
+
+.custom-header {
+    height: 50px;
+}
